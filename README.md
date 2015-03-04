@@ -1,4 +1,4 @@
-# GetMyPhoneNumber
+# Yc_demo_getMyPhoneNumber
 【Android Demo】简单手机通讯录
 
 Android 系统给我们提供了访问通讯录的接口，通过接口获取通讯录信息。
