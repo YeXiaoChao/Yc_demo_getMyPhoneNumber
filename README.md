@@ -9,15 +9,23 @@ ListView 是 Android App 中一个最最最常用的控件了，所以如何让 
 核心内容：
 
 1.获取手机通讯录
+
 2.数据封装
+
 3.创建 Adapter 
+
 4.优化适配器
 
 步骤：
 
 1.新建项目，新建 GetNumber.class 类，用来获取通讯录中的信息
+
 2.添加权限
+
 3.新建 PhoneInfo.class 类作为通讯录信息封装类
+
 4.编辑界面
+
 5.自定义 ListView 的适配器类 MyAdapter.class 
+
 6.编辑主界面代码，显示通讯录信息
